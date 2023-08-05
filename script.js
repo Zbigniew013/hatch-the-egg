@@ -1,3 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
-    console.log('Eggs are cool!')
-})
+"use strict";
+document.addEventListener('DOMContentLoaded', function () {
+    console.log('Eggs are cool!');
+});
